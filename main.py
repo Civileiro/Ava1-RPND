@@ -1,4 +1,6 @@
-# 
+# Grupo:
+# Bea Zardo
+# Gabriel Prost
 
 import sys
 
